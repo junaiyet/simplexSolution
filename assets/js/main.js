@@ -51,7 +51,7 @@
   }
   window.addEventListener('load', navbarlinksActive)
   onscroll(document, navbarlinksActive)
-
+// junaiyet mia
   /**
    * Scrolls to an element with header offset
    */
